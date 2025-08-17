@@ -2,7 +2,7 @@
 
 implemented the Transformer architecture folling a walkthrough from *Deep Learning with Python second Edition* by *François Chollet* 
 
-Folling the Book gudiance 
+Folling the Book gudiance I
 1. Implemented the transformers Encoder and used it for a text classification task 
 2. Implemented a transformers Encoder-Decoder Architecture used for a machine translation task
 
